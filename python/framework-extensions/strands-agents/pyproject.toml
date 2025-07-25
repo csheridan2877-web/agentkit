@@ -17,6 +17,7 @@ keywords = [
     "ai",
     "agent",
 ]
+
 dependencies = [
     "python-dotenv>=1.0.1,<2",
     "nest-asyncio>=1.5.8,<2",
