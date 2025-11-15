@@ -23,6 +23,7 @@ dependencies = [
     "openai-agents>=0.0.6,<0.0.7",
     "setuptools>=69.0.3,<70",
     "nest-asyncio>=1.6.0,<2",
+    "requests==2.32.4",
 ]
 
 [dependency-groups]
