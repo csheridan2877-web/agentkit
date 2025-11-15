@@ -20,7 +20,7 @@ dependencies = [
     "copier>=9.1.0,<10",
     "rich>=13.3.2,<14",
     "questionary>=2.1.0,<3",
-    "requests>=2.32.3,<3",
+    "requests==2.32.4",
     "platformdirs>=4.3.6,<5",
     "prompt-toolkit>=3.0.50,<4",
 ]
