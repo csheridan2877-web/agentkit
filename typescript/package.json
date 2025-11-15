@@ -54,5 +54,10 @@
     "turbo": "^2.3.3",
     "typedoc": "^0.27.2",
     "typescript": "^5.4.5"
+  },
+  "pnpm": {
+    "overrides": {
+      "@metamask/sdk-communication-layer@<=0.33.1": "0.33.1"
+    }
   }
 }
