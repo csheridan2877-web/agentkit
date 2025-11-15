@@ -734,7 +734,7 @@ requires-dist = [
     { name = "coinbase-agentkit", specifier = ">=0.7.2,<0.8" },
     { name = "nest-asyncio", specifier = ">=1.5.8,<2" },
     { name = "python-dotenv", specifier = ">=1.0.1,<2" },
-    { name = "strands-agents", specifier = ">=1.0.1" },
+    { name = "strands-agents", specifier = "==1.5.0" },
     { name = "strands-agents-builder", specifier = ">=0.1.7" },
     { name = "strands-agents-tools", specifier = ">=0.2.1" },
 ]
@@ -3549,7 +3549,7 @@ wheels = [
 
 [[package]]
 name = "strands-agents"
-version = "1.2.0"
+version = "1.5.0"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "boto3" },
@@ -3563,9 +3563,9 @@ dependencies = [
     { name = "typing-extensions" },
     { name = "watchdog" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/76/e8/ec29797d3dd9c813ff37e4810e2586e9dbf1fd51bc140aaa3d0c9c818ba1/strands_agents-1.2.0.tar.gz", hash = "sha256:6946252f7752e54a885e55960940496ff12a698ce45d6a2c82449a93399d3020", size = 243241, upload-time = "2025-07-30T14:39:54.95Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/e7/4b/2adc357deb4e29cd6f34136e7133f35f6e06f51597fa29b00282c23f1f4e/strands_agents-1.5.0.tar.gz", hash = "sha256:0abde7ea9854cf98f65e242973ebbf26627f9d93d381ed6c0d55d23b7f2445a6", size = 262074, upload-time = "2025-08-19T02:13:59.179Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/b4/2c/d3e1b3548c0ae194e87c7e73a4a1e2480f70f49a4e6323a8a384fe312692/strands_agents-1.2.0-py3-none-any.whl", hash = "sha256:34ac7f5d2b756d0ac91011948c132796958e272c349dc3b84c52a146ab37346c", size = 170950, upload-time = "2025-07-30T14:39:52.979Z" },
+    { url = "https://files.pythonhosted.org/packages/3e/6a/67daf3b719bb6c6f1f886d158591411febdabd763c2b0a5adbf3189c8bab/strands_agents-1.5.0-py3-none-any.whl", hash = "sha256:e90842bbc49a6acb69d01be5b7e545f25fd728ee5da429413da52e790d7f675b", size = 180745, upload-time = "2025-08-19T02:13:57.215Z" },
 ]
 
 [package.optional-dependencies]
