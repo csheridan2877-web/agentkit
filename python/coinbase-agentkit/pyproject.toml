@@ -20,7 +20,7 @@ dependencies = [
     "pydantic~=2.0",
     "web3>=7.6.0,<8",
     "python-dotenv>=1.0.1,<2",
-    "requests>=2.31.0,<3",
+    "requests==2.32.4",
     "paramiko>=3.5.1,<4",
     "nilql>=0.0.0a12,<0.0.1",
     "ecdsa>=0.19.0,<0.20",
@@ -28,7 +28,7 @@ dependencies = [
     "jsonschema>=4.23.0,<5",
     "x402>=0.1.4,<2",
     "solana>=0.36.6",
-    "solders>=0.26.0"
+    "solders>=0.26.0",
 ]
 
 [tool.hatch.metadata]
