@@ -9,6 +9,7 @@ dependencies = [
     "python-dotenv>=1.0.1,<2",
     "coinbase-agentkit",
     "coinbase-agentkit-openai-agents-sdk",
+    "requests==2.32.4",
 ]
 
 [dependency-groups]
