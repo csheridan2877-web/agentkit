@@ -12,6 +12,7 @@ dependencies = [
     "tweepy>=4.15.0,<5",
     "coinbase-agentkit",
     "coinbase-agentkit-langchain",
+    "requests==2.32.4",
 ]
 
 [dependency-groups]
