@@ -20,7 +20,7 @@ dependencies = [
     "types-pynput>=1.8.1",
     "sounddevice>=0.5.1",
     "textual>=2.1.2",
-    "numpy>=2.2.4",
+    "numpy==2.2.6",
     "websockets>=15.0.1",
     "coinbase-agentkit",
     "coinbase-agentkit-openai-agents-sdk",
