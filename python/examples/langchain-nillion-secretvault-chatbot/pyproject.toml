@@ -14,6 +14,7 @@ dependencies = [
     "langgraph>=0.2.39,<0.3",
     "coinbase-agentkit",
     "coinbase-agentkit-langchain",
+    "requests==2.32.4",
 ]
 
 [dependency-groups]
